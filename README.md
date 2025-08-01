@@ -3,6 +3,7 @@ Automatically scans through all subfolders from the script's directory, finds al
 Each vehicle entry includes randomized brand, category, price, and a properly formatted display name — while preserving the original file name as the model.
 
 ✨ Features
+
 ✅ Recursive search: Scans all subdirectories for .ytd files.
 
 ✅ Preserves model name: Keeps underscores or dashes exactly as-is.
@@ -16,6 +17,7 @@ Each vehicle entry includes randomized brand, category, price, and a properly fo
 ✅ One-click automation: Place the script in your base folder and run — no setup needed.
 
 📌 Instructions
+
 Place the batch script in your base folder containing .ytd files (or subfolders).
 
 Double-click to run.
