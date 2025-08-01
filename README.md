@@ -21,3 +21,7 @@ Place the batch script in your base folder containing .ytd files (or subfolders)
 Double-click to run.
 
 The script will generate output.lua in the same folder.
+
+
+
+<img width="1024" height="1024" alt="example" src="https://github.com/user-attachments/assets/b9bb4ec8-7296-459b-a6c0-463ea7b68aa3" />
